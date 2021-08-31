@@ -1,2 +1,17 @@
-# MapBoxWithThreeJS
-A sample project to learn MapBox and to integrate Threejs for graphical elements to be displayed on top the map. Elements include markers, lines , splines etc
+# Three.js Starter
+Courtesy of Bruno Simon of https://threejs-journey.xyz/
+
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
+
+``` bash
+# Install dependencies (only the first time)
+npm install
+
+# Run the local server at localhost:8080
+npm run dev
+
+# Build for production in the dist/ directory
+npm run build
+```
